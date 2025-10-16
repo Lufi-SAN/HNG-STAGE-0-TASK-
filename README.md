@@ -83,6 +83,13 @@ Installation
 ```bash
 npm install
 ```
+### Create .env file in root directory
+```text
+EMAIL = "<your mail>"
+NAME = "<your name>"
+STACK = "<your stack>"
+```
+
 ### Transpile the ts file
 ```bash
 npm run build
@@ -96,8 +103,3 @@ npm run watch
 ```bash
 npm run start
 ```
-
-
-
-
-
